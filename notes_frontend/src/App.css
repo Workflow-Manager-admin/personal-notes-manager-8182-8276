@@ -8,6 +8,14 @@
   --border-color: #e9ecef;
   --button-bg: #007bff;
   --button-text: #ffffff;
+
+  /* Added for custom notes palette */
+  --primary: #1976d2;
+  --accent: #ffca28;
+  --secondary: #424242;
+  --border: #f1f2f3;
+  --notes-light-bg: #f8fafb;
+  --notes-hover-bg: #f3f7fa;
 }
 
 [data-theme="dark"] {
